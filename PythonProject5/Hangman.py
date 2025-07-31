@@ -47,7 +47,7 @@ while displayed_word != chosen_word:
 
     if verdict == 1 and guess not in guessed_letters:
         print(f"You guessed {guess},{correct}")
-    elif verdict == 0:
+    elif verdict == 0 and guess not in guessed_letters:
         life -= 1
         print(f"You guessed {guess},{wrong}")
     else:
