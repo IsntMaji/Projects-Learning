@@ -122,7 +122,7 @@ while displayed_word != chosen_word:
         life -= 1
         print(f"You guessed {guess},{wrong}")
 
-print(poggers)
 print(displayed_word)
 if displayed_word == chosen_word:
+    print(poggers)
     print("YOU WIN!")
