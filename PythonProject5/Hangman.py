@@ -1,87 +1,8 @@
-poggers = r'''⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠤⠤⠐⠀⠀⠠⠤⢄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⢖⣪⣵⣶⣿⣿⣿⣿⣿⣿⣿⣷⣶⣍⡲⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣋⣴⣿⣿⠿⠛⣛⣋⣙⣛⠻⢿⣿⣿⣿⣿⣿⣦⡱⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⣀⡞⣴⣿⡟⠉⠖⣛⣋⣉⣛⡻⢿⣿⣷⣮⡙⢿⡿⣿⣿⣷⡜⢆⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⡴⣪⣭⣾⠿⠿⠿⢿⣙⠛⢿⣍⠉⣉⣿⣶⣬⣭⣍⣉⣀⣻⣝⢿⣿⣿⡌⣆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣠⢫⣿⡿⢋⣀⡀⠀⠀⠀⠈⠑⣦⡽⠛⠋⠉⠓⠲⣤⡉⠻⣿⠙⢿⣦⢻⣿⣷⠘⡆⠀⠀⠀⠀⠀⠀
-⠀⢠⢃⣿⣿⢱⠋⠛⣿⣦⠀⠀⠀⣼⣡⡷⣶⣤⡀⠀⠀⠈⠻⡄⠘⡇⠀⢿⣇⣉⣿⣧⣙⡒⢤⡀⠀⠀⠀
-⠀⢸⢸⣿⣿⡈⠷⣾⣽⠟⠀⠀⢸⡇⢿⣄⡼⣿⡇⠀⠀⠀⠀⢹⠀⡟⣠⣿⣿⣿⡿⠉⠙⠛⢳⡝⢦⠀⠀
-⠀⣸⢸⣿⡿⣟⢦⣄⣀⣀⣀⡤⠾⢷⡈⠙⠛⠋⠀⠀⠀⣀⡴⢋⡼⢡⣿⣿⣿⡿⠀⢠⡶⣤⣤⣿⡌⣇⠀
-⣠⢣⣿⣭⣤⣬⣵⣞⣉⡀⠀⠀⠀⠀⠙⠲⠤⠤⠴⠒⢋⣁⡴⠋⠀⢸⣿⣿⣿⣠⣾⡟⠀⠈⣷⠟⣷⢸⠀
-⣧⡟⢁⣠⣤⣤⣄⣀⡉⠉⠙⠓⠶⠦⣤⣀⡐⠒⠒⠛⠉⠁⠀⠀⠀⠈⣿⣿⣿⣿⡿⣧⣤⣶⠟⢀⡿⢸⡇
-⢧⠻⣾⡏⠻⢿⣿⣿⣿⣿⣷⣶⣶⣤⣄⣈⠉⠛⠶⢤⣀⡀⠀⠀⠀⠀⠘⣿⣿⣿⣿⡀⠈⠁⣠⡾⢃⣿⠁
-⠈⠳⢮⡙⠶⣄⡉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⡈⠙⠶⣄⡀⠀⠀⢨⣿⣿⣿⣿⣿⠟⣋⣴⡿⠃⠀
-⠀⠀⠀⠉⠓⢮⢹⡗⢀⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡈⠻⣆⠀⣾⣿⣿⡟⣹⣶⠾⠟⠋⠀⠀⠀
-⠀⠀⠀⠀⠀⡏⣼⠁⣼⣿⠟⠉⠀⣰⠞⠋⠀⠉⠛⠿⣿⣿⣿⡇⢀⣿⣾⣿⢿⡟⣰⡿⠁⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢰⢻⡇⢠⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⠟⢀⣼⠁⠉⣵⠟⣴⡿⠁⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢸⢸⡇⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠋⣠⡾⠁⣠⡾⢣⣾⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣸⢸⡇⢸⣿⠀⠀⠀⣀⣤⣤⣤⣄⣠⡶⢏⢠⣴⣟⣤⠞⣫⣴⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⡴⡿⠿⠿⢬⣳⣾⣿⣖⡶⢞⡟⠋⠉⠉⢳⠖⠚⠉⠙⠺⣍⣴⣞⣫⠷⠶⠶⢿⠦⣤⣤⣶⡦⡀⠀⠀⠀
-⠀⢇⡇⠀⣶⠀⠙⠉⠀⠀⢙⡟⠃⢠⣴⣶⣏⣀⣠⣴⣦⣤⣿⡁⣀⣽⠀⠸⠂⣸⡟⠉⠡⣤⡿⣿⠀⠀⠀
-⠀⢸⡇⠀⠀⣠⡄⠀⣾⡦⠘⡇⠀⠸⣿⣏⠀⠀⣸⣿⣉⠉⠁⣹⠨⠿⠀⢰⡄⠈⠻⢷⣤⠀⠉⡾⣇⠀⠀
-⠀⢺⢹⣀⣸⣿⣝⣦⣀⣠⢴⣻⣶⡀⠀⠀⢀⣴⠁⠉⠁⢀⣼⡥⢤⣤⣤⣾⣿⣾⣄⣀⣀⣀⣴⣣⣿⠀⠀
-⠀⠈⠻⣿⡿⠿⠋⠛⠿⠿⠟⠋⠳⣯⣭⣭⣵⣾⣭⣿⣯⣵⡿⠟⠛⠛⠛⠋⠉⠉⠛⠶⣶⣾⠿⠟⠃⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀'''
-stages = [r'''
-  +---+
-  |   |
-  O   |
- /|\  |
- / \  |
-      |
-=========
-''', r'''
-  +---+
-  |   |
-  O   |
- /|\  |
- /    |
-      |
-=========
-''', r'''
-  +---+
-  |   |
-  O   |
- /|\  |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
- /|   |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
-  |   |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========
-''', '''
-  +---+
-  |   |
-      |
-      |
-      |
-      |
-=========
-''']
-word_list = ["aardvark", "baboon", "camel"]
+import hangman_words
+import hangman_art
 import random
 
-chosen_word = random.choice(word_list)
+chosen_word = random.choice(hangman_words.word_list)
 compare = list(chosen_word)
 blanks = []
 
@@ -91,15 +12,16 @@ for char in compare:
 displayed_word = ''.join(blanks)
 life = 6
 
-
+print(f"{hangman_art.logo}")
 while displayed_word != chosen_word:
 
     if life <= 0:
-        print(f"{stages[life]}")
+        print(f"{hangman_art.stages[life]}")
+        print(chosen_word)
         print("YOU LOSE!")
         break
 
-    print(f"{stages[life]}")
+    print(f"{hangman_art.stages[life]}")
     print(f"Word to guess: {displayed_word}")
     print(f"LIVES {life}/6")
     guess = input("Guess a letter: ").lower()
@@ -122,7 +44,7 @@ while displayed_word != chosen_word:
         life -= 1
         print(f"You guessed {guess},{wrong}")
 
-print(displayed_word)
 if displayed_word == chosen_word:
-    print(poggers)
+    print(hangman_art.poggers)
+    print(displayed_word)
     print("YOU WIN!")
