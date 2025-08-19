@@ -29,7 +29,7 @@ while run:
     operator = input("+\n-\n*\n/\nWhat is the operation to perform? :")
     num2 = float(input("What is the second number? :"))
     result = operations[operator](num1, num2)
-    print(f"The result is: {result}")
+    print(f"{num1} {operator} {num2} = {result}")
     next_calc = input(f"Would you like keep calculating with the number {result}? y/n? ").lower()
     if next_calc == "y":
         saved_num = result
