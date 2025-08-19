@@ -22,6 +22,7 @@ operations = {
 saved_num = 0
 run = True
 while run:
+    num1 = saved_num
     if saved_num == 0:
         print(art.logo)
         num1 = float(input("What is the first number? :"))
