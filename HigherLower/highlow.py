@@ -13,9 +13,8 @@ while 1:
     A_num = randint(0, list_upper)
     B_num = randint(0, list_upper)
     while 1:
-        if A_num == B_num:
-            while A_num == B_num:
-                B_num = randint(0, list_upper)
+        while A_num == B_num:
+            B_num = randint(0, list_upper)
         A_followers = data[A_num]["follower_count"]
         B_followers = data[B_num]["follower_count"]
         print(data_info(A_num, "A"))
