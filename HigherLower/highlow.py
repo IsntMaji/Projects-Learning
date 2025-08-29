@@ -4,10 +4,8 @@ from game_data import data
 
 score = 0
 
-
 def data_info(num, letter):
     return f"Option {letter}: {data[num]["name"]}, a {data[num]["description"]}, from {data[num]["country"]}."
-
 
 while 1:
     print(logo)
